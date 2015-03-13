@@ -1,0 +1,32 @@
+.container
+{
+	max-width: 600px;
+}
+
+#check-btn
+{
+	margin-top: 20px;
+    background-color:#ED5565;
+    border-color:black;
+    color:#48CFAD;
+}
+body 
+{
+    background-color:#001F3F;
+}
+#reset-btn
+{
+    background-color:#ED5565;
+    border-color:black;
+    color:#48CFAD;
+}
+#generate-btn
+{
+    background-color:#DA4453;
+    border-color:black;
+    color:#48CFAD;
+}
+h1
+{
+  color:#4FC1E9;
+}
